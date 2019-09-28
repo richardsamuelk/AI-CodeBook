@@ -1,0 +1,9 @@
+<html>
+   <body>
+      {% if results[0] <= 10 %}
+      <p style="color:rgb(255,0,0);">Housing prediction for given input is {{ results[0] }}</p>
+      {% else %}
+      <p style="color:rgb(255,200,0);">Housing prediction for given input is {{ results[0] }}</p>
+      {% endif %}
+   </body>
+</html>
