@@ -10,6 +10,6 @@ Curated code reference for anything related to AI domain and all sub domains.
 ## Contributions
 Your contributions are always welcome!
 
-If you want to contribute your codes or code snippets on differnet topics, send me a pull request or contact me [@kannanpoem](https://twitter.com/kannanpoem) . Also, feel free to contact or send pull request  if you notice that any of the above listed code should be deprecated or need a update. 
+If you want to contribute your codes or code snippets on differnet topics ( Please refer the Project tab to work on any stories ), send me a pull request or contact me [@kannanpoem](https://twitter.com/kannanpoem) . Also, feel free to contact or send pull request  if you notice that any of the above listed code should be deprecated or need a update. 
 
 More info on the CONTRIBUTING.md
