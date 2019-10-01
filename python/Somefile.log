@@ -1,0 +1,9 @@
+2019-10-01 20:51:56,619 : WARNING : __main__ : Something is not right.
+2019-10-01 20:51:56,622 : ERROR : __main__ : A Major error has happened.
+2019-10-01 20:51:56,624 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-10-01 20:55:18,090 : WARNING : __main__ : Warning message.
+2019-10-01 20:55:18,090 : WARNING : __main__ : Warning message.
+2019-10-01 20:55:18,092 : ERROR : __main__ : Alert , some error
+2019-10-01 20:55:18,092 : ERROR : __main__ : Alert , some error
+2019-10-01 20:55:18,093 : CRITICAL : __main__ : exit immediately
+2019-10-01 20:55:18,093 : CRITICAL : __main__ : exit immediately
